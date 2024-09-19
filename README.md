@@ -4,6 +4,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OBuskas)
 [![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
+<br/>
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLucao97&show_icons=true&theme=radical)
+<br/>
 
 ## 🫡 Tech Stack:
 <div style="display: inline_block">
@@ -18,8 +22,6 @@
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 <br/>
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLucao97&show_icons=true&theme=radical)
 
 ## 🤓 Studying
 <div style="display: inline_block">
