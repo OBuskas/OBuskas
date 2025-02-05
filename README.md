@@ -1,5 +1,5 @@
 # Welcome! I'm Lucas Barbosa!
-### 🇧🇷 Brazilian Frontend Developer, 27 years old, with an analytical mindset, proactive approach, and solid experience in developing innovative solutions. Strong interpersonal skills, collaborating effectively with colleagues across different sectors. Professional experience with technologies including: JavaScript, TypeScript, React.js, Next.js, Tailwind, Shadcn/ui, Ant Design, JSON, npm, Yarn, ESLint, Vite, Vercel, Git and Node.js.
+### 🇧🇷 Brazilian Frontend Developer, 27 years old, with an analytical mindset, proactive approach, and solid experience in developing innovative solutions. Strong interpersonal skills, collaborating effectively with colleagues across different sectors. Professional experience with technologies including: JavaScript, TypeScript, React.js, Next.js, Tailwind, Shadcn/ui, Ant Design, npm, Yarn, ESLint, Vite, Vercel, Git and Node.js.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarbosadecarvalho/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
 [![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
@@ -15,9 +15,8 @@
   <img align="center" alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="Shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff">
+  <img align="center" alt="Shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
   <img align="center" alt="AntD" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white">
-  <img align="center" alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
   <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img align="center" alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
