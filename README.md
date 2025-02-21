@@ -1,5 +1,5 @@
 # Welcome! I'm Lucas Barbosa!
-### 🇧🇷 Brazilian Frontend Developer, 27 years old, with an analytical mindset, proactive approach, and solid experience in developing innovative solutions. Strong interpersonal skills, collaborating effectively with colleagues across different sectors. Professional experience with technologies including: JavaScript, TypeScript, React.js, Next.js, Tailwind, Shadcn/ui, Ant Design, npm, Yarn, ESLint, Vite, Vercel, Git and Node.js.
+### 🇧🇷 Brazilian Frontend Developer, 27 years old, with an analytical mindset, proactive approach, and solid experience in developing innovative solutions. Strong interpersonal skills, collaborating effectively with colleagues across different sectors. Professional experience with technologies including: JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn/ui, Ant Design, npm, Yarn, ESLint, Vite, Vercel, Git and Node.js.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarbosadecarvalho/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
 [![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
