@@ -7,6 +7,7 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=radical)
 <br/>
 <br/>
+<br/>
 
 ## 🫡 Tech Stack:
 <div style="display: inline_block">
