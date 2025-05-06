@@ -6,6 +6,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=radical)
 <br/>
+![Lucas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OBuskas=anuraghazra&layout=donut&langs_count=10&theme=radical)
 <br/>
 <br/>
 
