@@ -4,10 +4,12 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
 [![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
 
-<div style="display: flex; gap: 10px;">
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=radical)
-  ![Lucas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=10&theme=radical)
-</div>
+<a href="https://github.com/OBuskas">
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/OBuskas">
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=10&theme=radical" />
+</a>
 <br/>
 <br/>
 
