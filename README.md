@@ -5,10 +5,10 @@
 [![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
 
 <a href="https://github.com/OBuskas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/OBuskas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=10&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=10&theme=radical&card_width=320" />
 </a>
 <br/>
 <br/>
