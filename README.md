@@ -4,11 +4,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
 [![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
 
-<a href="https://github.com/OBuskas">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=github_dark&card_height=200&card_weight=400" /> 
+<a href="https://github.com/OBuskas" style="display: inline-block; width: 400px; height: 200px;">
+  <img style="width: 100%; height: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=github_dark" /> 
 </a>
-<a href="https://github.com/OBuskas">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=8&theme=github_dark&card_height=210&card_weight=400" />
+<a href="https://github.com/OBuskas" style="display: inline-block; width: 400px; height: 200px;">
+  <img style="width: 100%; height: 100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=8&theme=github_dark" />
 </a>
 <br/>
 <br/>
