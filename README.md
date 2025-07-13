@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=github_dark&card_height=200&card_weight=400" /> 
 </a>
 <a href="https://github.com/OBuskas">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=8&theme=github_dark&card_height=200&card_weight=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=8&theme=github_dark&card_height=210&card_weight=400" />
 </a>
 <br/>
 <br/>
