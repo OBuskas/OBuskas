@@ -1,8 +1,10 @@
-# Welcome! I'm Lucas Barbosa!
-### 🇧🇷 Brazilian Frontend Developer, 27 years old, with an analytical mindset, proactive approach, and solid experience in developing innovative solutions. Strong interpersonal skills, collaborating effectively with colleagues across different sectors. Professional experience with technologies including: JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn/ui, Ant Design, npm, Yarn, ESLint, Vite, Vercel, Git and Node.js.
+# Front-end Developer
+Brazilian, 27 years old, graduated in Systems Analysis and Development at FIAP, with an analytical, proactive, and communicative profile.
+I work at Transfero Group, in the startup Dinx, where I develop the BackOffice and the subscription website of the financial education platform for children, using Next.js, TypeScript, Tailwind, Shadcn/UI, and Ant Design.
+I started my career in 2023 at PUAH Consultoria, working on customized projects with JavaScript, TypeScript, and React.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarbosadecarvalho/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
-[![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://bento.me/lucasbarbosa)](https://bento.me/lucasbarbosa)
+[![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://lucas-barbosa.dev/)]((lucas-barbosa.dev))
 
 <a href="https://github.com/OBuskas">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=github_dark" />
