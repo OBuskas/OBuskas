@@ -1,5 +1,5 @@
 # Front-end Developer
-Brazilian, 27 years old, graduated in Systems Analysis and Development at FIAP, with an analytical, proactive, and communicative profile.
+Brazilian, 28 years old, graduated in Systems Analysis and Development at FIAP, with an analytical, proactive, and communicative profile.
 I work at Transfero Group, in the startup Dinx, where I develop the BackOffice and the subscription website of the financial education platform for children, using Next.js, TypeScript, Tailwind, Shadcn/UI, and Ant Design.
 I started my career in 2023 at PUAH Consultoria, working on customized projects with JavaScript, TypeScript, and React.
 
