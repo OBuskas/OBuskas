@@ -4,8 +4,7 @@ I work at Transfero Group, in the startup Dinx, where I develop the BackOffice a
 I started my career in 2023 at PUAH Consultoria, working on customized projects with JavaScript, TypeScript, and React.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarbosadecarvalho/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obuskas)
-[![Blog](https://img.shields.io/website?label=bento.me/lucasbarbosa.com&style=for-the-badge&url=https://lucas-barbosa.dev/)]((lucas-barbosa.dev))
+[![Static Badge](https://img.shields.io/badge/https%3A%2F%2Flucas-barbosa.dev%2F%3A-lucas_barbosa_dev)]((lucas-barbosa.dev))
 
 <a href="https://github.com/OBuskas">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=github_dark" />
