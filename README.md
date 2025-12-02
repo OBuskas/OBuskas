@@ -6,9 +6,9 @@ I started my career in 2023 at PUAH Consultoria, working on customized projects 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbarbosadecarvalho/)
 [![Static Badge](https://img.shields.io/badge/https%3A%2F%2Flucas-barbosa.dev%2F%3A-lucas_barbosa_dev)]((lucas-barbosa.dev))
 
-{/*<a href="https://github.com/OBuskas">
+<!--<a href="https://github.com/OBuskas">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=OBuskas&show_icons=true&theme=github_dark" />
-</a>*/}
+</a>-->
 <a href="https://github.com/OBuskas">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBuskas&layout=compact&langs_count=8&theme=github_dark" />
 </a>
