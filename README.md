@@ -7,9 +7,8 @@ I started my career in 2023 at PUAH Consultoria, working on customized projects 
 [![Static Badge](https://img.shields.io/badge/https%3A%2F%2Flucas-barbosa.dev%2F%3A-lucas_barbosa_dev)]((lucas-barbosa.dev))
 
 <br/>
-<br/>
 
-## 🫡 Tech Stack:
+## Tech Stack:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -26,7 +25,7 @@ I started my career in 2023 at PUAH Consultoria, working on customized projects 
   <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-## 🤓 Studying
+## Studying
 <div style="display: inline_block">
   <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -34,5 +33,4 @@ I started my career in 2023 at PUAH Consultoria, working on customized projects 
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white">
   <img align="center" alt="pnpm" src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
   <img align="center" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-  <img align="center" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
