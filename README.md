@@ -36,12 +36,6 @@ Currently, I work at Transfero Group on Dinx products, developing internal platf
 ### Portfolio
 Personal portfolio website showcasing my work, skills, and experience.
 
-### [Project Name]
-Short description of what the project does, your role, and the main stack used.
-
-### [Project Name]
-Short description of the business problem solved and the technologies used.
-
 ## Links
 
 - Portfolio: [lucas-barbosa.dev](https://lucas-barbosa.dev)
