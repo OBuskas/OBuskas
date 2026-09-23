@@ -30,5 +30,5 @@ A restaurant analytics dashboard project focused on data visualization, SaaS str
 
 ## Links
 
-- Portfolio: [lucas-barbosa.dev](https://lucas-barbosa.dev)
+- Portfolio: [https://lucas-barbosa.dev](https://lucas-barbosa-dev.vercel.app/)
 - LinkedIn: [linkedin.com/in/lucasbarbosadecarvalho](https://linkedin.com/in/lucasbarbosadecarvalho)
